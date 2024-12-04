@@ -1,0 +1,1570 @@
+[
+    {
+        "question": "Be quiet! The baby (sleep).",
+        "correct_answer": "is sleeping",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We seldom (eat) before 6:30.",
+        "correct_answer": "eat",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Look! A man (run) after the train. He (want) to catch it.",
+        "correct_answer": "is running/wants",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The sun (set) in the West.",
+        "correct_answer": "sets",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "It (be) often hot in summer.",
+        "correct_answer": "is",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (do) an exercise on the present tenses at this moment and I (think) that I (know) how to use it now.",
+        "correct_answer": "am doing/think/know",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "My mother sometimes (buy) vegetables at this market.",
+        "correct_answer": "buys",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "It (be) very cold now.",
+        "correct_answer": "is",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "It (rain) much in summer. It (rain) now.",
+        "correct_answer": "rains/is raining",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Daisy (cook) some food in the kitchen at present. She always (cook) in the morning.",
+        "correct_answer": "is cooking/cooks",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (wait) for two hours, but she (not come) yet.",
+        "correct_answer": "have been waiting/hasn’t come",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "They (live) in Ho Chi Minh City since 1975.",
+        "correct_answer": "have been living/have lived",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "She (read) all the books written by Dickens. How many books you (read)?",
+        "correct_answer": "has read/have you read",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (not, be) here since Christmas, I wonder where he (live) since then.",
+        "correct_answer": "hasn’t been/has been living",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Jack (go) to Paris for a holiday. He never (be) there.",
+        "correct_answer": "has gone/has never been",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "You (sleep) so far? I (ring) the bell for the last twenty minutes.",
+        "correct_answer": "Have you been sleeping/have been ringing",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (write) a novel for two years, but he (not finish) it yet.",
+        "correct_answer": "has been writing/hasn’t finished",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mary (lose) her hat and she (look) for it until now.",
+        "correct_answer": "has lost/has been looking",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (see) that film several times because I like it.",
+        "correct_answer": "have seen",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Listen! I (think) someone (knock) at the door.",
+        "correct_answer": "think/is knocking",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Up to the present, we (write) almost every lesson in the book.",
+        "correct_answer": "have written/have been writing",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The earth (circle) the sun once every 365 days.",
+        "correct_answer": "circles",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The farmers (work) in the field at the moment.",
+        "correct_answer": "are working",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "How many times you (see) him since he went to Edinburgh?",
+        "correct_answer": "have you seen",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Rivers usually (flow) to the sea.",
+        "correct_answer": "flow",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Look! The boy (cry).",
+        "correct_answer": "is crying",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Do you know that man, who (smoke) there?",
+        "correct_answer": "is smoking",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mrs Green always (go) to work by bus.",
+        "correct_answer": "goes",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (be) from France. We (be) there for 20 years.",
+        "correct_answer": "are/have been",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "That house (belong) to Mr. Green.",
+        "correct_answer": "belongs",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mai (lose) her dictionary.",
+        "correct_answer": "has lost",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (be) sorry. I (forget) that girl’s name already.",
+        "correct_answer": "am/have forgotten",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (wait) for the manager for two hours.",
+        "correct_answer": "have been waiting/have waited",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "You (ever, see) a lion?",
+        "correct_answer": "Have you",
+        "answer": "",
+        "note": "",
+        "status": 0
+    },
+	{
+        "question": "I (see) her before.",
+        "correct_answer": "have seen",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (see) her last year.",
+        "correct_answer": "saw",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Tom (never be) in Hanoi.",
+        "correct_answer": "has never been",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (read) the novel written by Jack London several times before.",
+        "correct_answer": "have read",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "What you (do) yesterday?",
+        "correct_answer": "did you do",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "You (watch) TV last night?",
+        "correct_answer": "did you watch",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "She (be) born in 1980.",
+        "correct_answer": "was",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (write) a book since last year.",
+        "correct_answer": "has written",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mr Green (teach) English in this school since he (graduate) from the university in 1986.",
+        "correct_answer": "has taught / has been teaching - graduated",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "How long you (learn) English?",
+        "correct_answer": "have you been learning / have you learnt / (learned)",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+	{
+        "question": "When I (arrive) at this house, he still (sleep).",
+        "correct_answer": "arrived - was still sleeping",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The light (go) out while we (have) dinner.",
+        "correct_answer": "went - were having",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Bill (have) breakfast when I (stop) at this house this morning.",
+        "correct_answer": "was having - stopped",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "As we (cross) the street, we (see) an accident.",
+        "correct_answer": "were crossing - saw",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Tom (see) a serious accident while he (stand) at the bus stop.",
+        "correct_answer": "saw - was standing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "While my father (read) a newspaper, I (learn) my lesson and my sister (do) her homework.",
+        "correct_answer": "was reading - was learning - was doing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The children (play) football when their mother (come) back home.",
+        "correct_answer": "were playing - came",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The bell (ring) while Tom (take) a bath.",
+        "correct_answer": "rang - was taking",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (be) very tired because I (work) all day yesterday.",
+        "correct_answer": "was - was working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (sit) in a cafe when I (see) him.",
+        "correct_answer": "was sitting - saw",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+	{
+        "question": "They (go) home after they (finish) their work.",
+        "correct_answer": "went - had finished",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "She said that she (already, see) Dr. Rice.",
+        "correct_answer": "had already seen",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When we came to the stadium, the match (already, begin).",
+        "correct_answer": "had already begun",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "They told me they (not, eat) such kind of food before.",
+        "correct_answer": "hadn’t eaten",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (ask) why we (come) so early.",
+        "correct_answer": "asked - had come",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "After they had gone, I (sit) down and (rest).",
+        "correct_answer": "sat - rested",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Before she (watch) TV, she (do) her homework.",
+        "correct_answer": "watched - had done",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "After taking a bath, he (go) to bed.",
+        "correct_answer": "went",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "What (be) he when he (be) young?",
+        "correct_answer": "was - was",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "It was the first time I (ever, see) such a beautiful girl.",
+        "correct_answer": "had ever seen",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+	{
+        "question": "Yesterday John (go) to the store before he (go) home.",
+        "correct_answer": "had gone - went",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Our teacher (tell) us yesterday that he (visit) England in 1970.",
+        "correct_answer": "told - visited",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When John and I got to the theatre, the movie (start) already.",
+        "correct_answer": "had already started",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Before Alice (go) to sleep, she (call) her family.",
+        "correct_answer": "went - had called",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When the phone (ring), I (have) dinner.",
+        "correct_answer": "rang - was having",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Daisy (agree) with other members in the last meeting.",
+        "correct_answer": "agreed",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "What you (do) at 6 p.m yesterday?",
+        "correct_answer": "were you doing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The little girl asked what (happen) to her ice-cream.",
+        "correct_answer": "had happened",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (teach) in this school before he (leave) for England.",
+        "correct_answer": "had taught - left",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "She (win) the gold medal in 1986.",
+        "correct_answer": "won",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+	{
+        "question": "We’ll go out when the rain (stop).",
+        "correct_answer": "stops",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (stay) here until he (answer) me.",
+        "correct_answer": "will stay - answers",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Wait until I (catch) you.",
+        "correct_answer": "catch",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "She (not come) until you (be) ready.",
+        "correct_answer": "won’t come - are",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Miss Helen (help) you as soon as she (finish) that letter tomorrow.",
+        "correct_answer": "will help - finishes",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "After the class (be) over, ask the teacher about that sentence.",
+        "correct_answer": "is",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (come) and (see) you before I leave here.",
+        "correct_answer": "will come - see",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (go) home as soon as we have finished our work.",
+        "correct_answer": "will go",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (wait) here until you (come) back tomorrow.",
+        "correct_answer": "will wait - come",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (send) you some postcards as soon as I (arrive) in London.",
+        "correct_answer": "will send - arrive",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I’ll wait until he (finish) his novel.",
+        "correct_answer": "has finished",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When you (come) back, he already (buy) a new house.",
+        "correct_answer": "come - has already bought",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Don’t come until I (finish) lunch.",
+        "correct_answer": "have finished",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (hope) it (stop) raining by 5 o’clock this afternoon.",
+        "correct_answer": "hope - will have stopped",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The river (not begin) to swell until some rain (fall).",
+        "correct_answer": "will not begin - falls",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By next month I (leave) for India.",
+        "correct_answer": "will have left",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The film (end) by the time we (get) there.",
+        "correct_answer": "will be working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "They (build) a house by June next year.",
+        "correct_answer": "will have built",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (start) our plan next week.",
+        "correct_answer": "will start",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (give) her your letter when I (see) her tomorrow.",
+        "correct_answer": "will give - see",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+	{
+        "question": "When you (go) into the office, Mr John (sit) at the front desk.",
+        "correct_answer": "go - will be sitting",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Our English teacher (explain) that lesson to us tomorrow.",
+        "correct_answer": "will explain",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (wait) for you when you (get) back tomorrow.",
+        "correct_answer": "will be waiting - get",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "What you (do) at 7 p.m next Sunday? I (practise) my English lesson then.",
+        "correct_answer": "will you be doing - will be practising",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When I (see) Mr Pike tomorrow, I (remind) him of that.",
+        "correct_answer": "see - will remind",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When you (come) today, I (work) at my desk in Room 12.",
+        "correct_answer": "come - will be working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (work) on the report at this time tomorrow.",
+        "correct_answer": "will be working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Please wait here until the manager (return).",
+        "correct_answer": "returns",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Don’t leave until you (see) her.",
+        "correct_answer": "see",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The Browns (do) their housework when you (come) next Sunday.",
+        "correct_answer": "will be doing - come",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I’m sure they (complete) the new road by June.",
+        "correct_answer": "will have completed",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (wait) for you when you (get) back tomorrow.",
+        "correct_answer": "will be waiting - get",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "At this same time tomorrow, we (drive) through Pennsylvania.",
+        "correct_answer": "will be driving",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (see) you next Monday.",
+        "correct_answer": "will see",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "In two years from now, the contract (come) to an end.",
+        "correct_answer": "will have come",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Who (look) after the children when you are away?",
+        "correct_answer": "will look",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By November I (work) for this company for 6 years.",
+        "correct_answer": "will have been working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "If you call her at 6, she (practise) the piano then.",
+        "correct_answer": "will be practicing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By March 15, I (be) here for one year.",
+        "correct_answer": "will have been",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (move) to our new house at Christmas this year.",
+        "correct_answer": "will move",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By the end of December, John (work) as a reporter for ten years.",
+        "correct_answer": "will have been working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By the time you arrive, I (finish) writing an essay.",
+        "correct_answer": "will have finished",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (give) him your message when I (see) him.",
+        "correct_answer": "will give - see",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He certainly (not do) all his homework by ten tonight.",
+        "correct_answer": "won’t have done",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Don’t call him at 2:30 p.m. He (interview) job applicants at that time.",
+        "correct_answer": "will be interviewing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The teacher hopes we (pass) our exams.",
+        "correct_answer": "will pass",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By this time next week, he (write) his novel for 6 months.",
+        "correct_answer": "will have been writing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "They (arrive) on Wednesday.",
+        "correct_answer": "will arrive",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I hope the weather (be) fine tonight.",
+        "correct_answer": "will be",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "You (finish) your work by 9 tonight?",
+        "correct_answer": "will you have finished",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+	{
+        "question": "I (see) a car accident while I (wait) for you on this corner yesterday.",
+        "correct_answer": "saw - was waiting",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mr Jone (be) principal of our school since last year.",
+        "correct_answer": "has been",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mr Smith (teach) at this school since he (graduate) in 1980.",
+        "correct_answer": "has taught - graduated",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "My father (not watch) TV every night.",
+        "correct_answer": "doesn’t watch",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (meet) Arthur three weeks ago.",
+        "correct_answer": "met",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Yesterday the police (report) that they (capture) the thief.",
+        "correct_answer": "reported - had captured",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "My friend (thank) me for what I had done for him.",
+        "correct_answer": "thanked",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Someone (steal) my handbag on the bus.",
+        "correct_answer": "has stolen",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The Browns (live) in Paris for 7 years when the second World War (break) out.",
+        "correct_answer": "had been living - broke",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Last month I (be) in the hospital for ten days.",
+        "correct_answer": "was",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Don’t call me in the afternoon. I usually (be) away in the afternoon.",
+        "correct_answer": "am usually",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mr Clark (be) in New York 2 months ago. Mr Rossi (be) in New York until 2 months ago.",
+        "correct_answer": "was - had been",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "John (drive) that car ever since I (know) him.",
+        "correct_answer": "has driven - knew",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "People (speak) English in most of Canada.",
+        "correct_answer": "speak",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The dog (wag) his tail whenever he (see) me.",
+        "correct_answer": "wags - sees",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "What you (do) when I (ring) you last night?",
+        "correct_answer": "were you doing - rang",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Up to then I never (see) such a fat man.",
+        "correct_answer": "had never seen",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (not see) him since last Monday.",
+        "correct_answer": "haven’t seen",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "They had sold all the books when we (get) there.",
+        "correct_answer": "got",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I think he (leave) as soon as he (know) the news.",
+        "correct_answer": "will leave - knows",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "She (play) the piano when our guests (arrive) last night.",
+        "correct_answer": "was playing - arrived",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (come) and (see) you soon.",
+        "correct_answer": "will come - see",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (come) as soon as I have finished my work. You (be) ready?",
+        "correct_answer": "will come - are you",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "My mother (come) to stay with us next weekend.",
+        "correct_answer": "will come",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Where you (spend) your holidays next summer?",
+        "correct_answer": "are you going to spend",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Violets (bloom) in spring.",
+        "correct_answer": "bloom",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (not live) in England for two years now.",
+        "correct_answer": "haven’t lived",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (never forget) what you (just tell) me.",
+        "correct_answer": "will never forget - have just told",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "They (prepare) the Christmas dinner at the moment.",
+        "correct_answer": "are preparing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When I last (stay) in Cairo, I (ride) to the Pyramids on a camel that my friend (borrow) the day before.",
+        "correct_answer": "stayed - rode - had borrowed / borrowed",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Our teacher (tell) us yesterday that he (visit) England in 1970.",
+        "correct_answer": "told - visited",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "George (work) at the university so far.",
+        "correct_answer": "has worked / has been working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When he lived in Manchester, he (work) in a bank.",
+        "correct_answer": "worked",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Birds (build) their nests in summer and (fly) to the South in winter.",
+        "correct_answer": "build - fly",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (lose) my key. (can) you help me look for it?",
+        "correct_answer": "have lost - can",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "My father (not smoke) for 5 years.",
+        "correct_answer": "hasn’t smoked",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "My teacher wasn’t at home when I (arrive). He (just go) out.",
+        "correct_answer": "arrived - had just gone",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "How long Bob and Mary (be) married?",
+        "correct_answer": "have Bob and Mary been",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "You (receive) any letter from your parents yet?",
+        "correct_answer": "have you received",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "My brother (join) the army when he (be) young.",
+        "correct_answer": "joined - was",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "You (remember) my name or you (forget) it someday?",
+        "correct_answer": "will you remember - will forget",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Tom (study) chemistry for three years and then he gave it up.",
+        "correct_answer": "had studied",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Miss Lee often (write) when she was on holiday.",
+        "correct_answer": "wrote",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (leave) home two weeks ago and we (not hear) from him since then.",
+        "correct_answer": "left - haven’t heard",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "You (speak) to Mrs Baker yesterday? No, I (not see) her for a long time. I (not can) remember when I last (see) her.",
+        "correct_answer": "did you speak - haven’t seen - can’t - saw",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When the teacher came in, the pupils (play) games.",
+        "correct_answer": "were playing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Columbus (discover) America more than 400 years ago.",
+        "correct_answer": "discovered",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By next month, I (finish) my first novel.",
+        "correct_answer": "will have finished",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By May 5, we (live) in this city for ten years.",
+        "correct_answer": "will have been living",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When your father (die)? I (not know) when he (die).",
+        "correct_answer": "did your father die - don’t know - died",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Bill said he (forget) to buy a dictionary.",
+        "correct_answer": "had forgot",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He felt asleep while he (do) his homework.",
+        "correct_answer": "was doing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (not see) them for a long time.",
+        "correct_answer": "haven’t seen",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "It (rain) when we arrived.",
+        "correct_answer": "was raining",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Kite and I (wait) right here until you get back.",
+        "correct_answer": "will wait",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He’ll leave as soon as he (hear) the news.",
+        "correct_answer": "hears",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Dick (start) school before he (be) seven.",
+        "correct_answer": "started / had started - was",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "How long you (study) in this school?",
+        "correct_answer": "have you been studying / have studied",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "We (not receive) any letter from him since he (leave) four months ago.",
+        "correct_answer": "haven’t received - left",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+	{
+        "question": "Where are you? I’m upstairs. I (have) a bath.",
+        "correct_answer": "am having",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (speak) to you about that matter after the meeting tonight.",
+        "correct_answer": "will speak",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "At this time next week, we (live) in USA.",
+        "correct_answer": "will be living",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Hurry up! The train (come).",
+        "correct_answer": "is coming",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Be quiet! The teacher (be) angry.",
+        "correct_answer": "is",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Why didn’t you listen while I (speak) to you?",
+        "correct_answer": "was speaking",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Some animals (not eat) during winter.",
+        "correct_answer": "don’t eat",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (finish) the book before my next birthday.",
+        "correct_answer": "will have finished",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "John (watch) TV at 8 last evening.",
+        "correct_answer": "was watching",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mr Pike (live) here since last October.",
+        "correct_answer": "has lived",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Someone (cut) down all the trees in the garden.",
+        "correct_answer": "has cut",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The house (build) two years ago.",
+        "correct_answer": "was built",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Listen! The bird (sing).",
+        "correct_answer": "is singing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Trees (plant) since it (stop) raining.",
+        "correct_answer": "have been planted - stopped",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Tom Baker (not come) here tomorrow.",
+        "correct_answer": "will not come",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By the end of last March, I (study) English for 5 years.",
+        "correct_answer": "had been studying",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He often (say) O.K when he (talk) with the guests.",
+        "correct_answer": "says - is talking",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "What you (do) after you (go) home yesterday?",
+        "correct_answer": "did you do - had gone",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "How long you (wait) for me? Just a few minutes.",
+        "correct_answer": "have you been waiting / have you waited",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He (do) his homework before he went to the cinema.",
+        "correct_answer": "had done",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By noon, I (wait) for her for two hours.",
+        "correct_answer": "will have been waiting",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "By the time you come there, she (make) a big cake.",
+        "correct_answer": "will have made",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Yesterday thieves (break) into the house and (steal) a lot of fur coats while the guests (dance).",
+        "correct_answer": "broke - stole - were dancing",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When I came in, they all (sit) round the fire. Mr Pike (do) a crossword puzzle, Mrs Pike (knit), and the others (read).",
+        "correct_answer": "were sitting - was doing - was knitting - were reading",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mr Jackson (paint) his house since last month.",
+        "correct_answer": "has painted",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "She (ask) me to tell about him several times.",
+        "correct_answer": "has asked",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The audience (listen) to everything he said last night.",
+        "correct_answer": "was listening",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "At 4 p.m yesterday? Well, I (work) in my office at that time.",
+        "correct_answer": "was working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "A: I (play) football since I was 5 years old. B: You (play) since you (come) to England? A: Oh, yes. I (play) quite a lot. I (join) a club the day after I (arrive).",
+        "correct_answer": "have played - have you played - came - have played - joined - had arrived",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I’m preparing to support anything he (say) tomorrow.",
+        "correct_answer": "will say / is going to say",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Sometimes I (get) up before the sun (rise).",
+        "correct_answer": "get - rises",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "He said he (be) mistaken.",
+        "correct_answer": "had been",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Don’t speak until someone (ask) you.",
+        "correct_answer": "asks",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Mary (come) from London.",
+        "correct_answer": "comes",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Please be quiet! I (work).",
+        "correct_answer": "am working",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "When I (be) a child, I (want) to be a doctor.",
+        "correct_answer": "was - wanted",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "David (be) born after his father (die).",
+        "correct_answer": "was - had died",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Long ago, my younger brother often (cry).",
+        "correct_answer": "cried",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "I (not send) the parcel until I hear from you.",
+        "correct_answer": "will not send",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "The last train (leave) the station at 5 p.m.",
+        "correct_answer": "left",
+		"answer": "",
+        "note": "",
+        "status": 0
+    },
+    {
+        "question": "Up to now, the teacher (give) our class five tests.",
+        "correct_answer": "has given",
+		"answer": "",
+        "note": "",
+        "status": 0
+    }
+]
