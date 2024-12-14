@@ -1,7 +1,9 @@
+using LearningENG.FormApp;
 using Newtonsoft.Json;
 using System;
 using System.Reflection;
 using System.Windows.Forms;
+using static System.Windows.Forms.DataFormats;
 
 namespace LearningENG
 {
@@ -53,9 +55,32 @@ namespace LearningENG
                 _iconReviewed = System.Drawing.Image.FromStream(stream);
             }
 
-            this.Icon = new Icon("Resources/icon_app.ico");
-
+            InitializeData();
             InitializeComponent();
+        }
+
+        private void InitializeData()
+        {
+            try
+            {
+                string path = GlobalVariables.DatabaseInstance.getPathConfig();
+                string jsonData = File.ReadAllText(path);
+                if (jsonData != null)
+                {
+                    ConfigApp config = JsonConvert.DeserializeObject<ConfigApp>(jsonData);
+
+                    if (config != null && config.pathNewword != string.Empty && config.pathGrammar != string.Empty)
+                    {
+                        GlobalVariables.DatabaseInstance.configApp = config;
+                        return;
+                    }
+                }
+                MessageBox.Show("Can not read JSON file: " + path);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Fail to initialize data!");
+            }
         }
 
         private void ClickBtnOpenFile(object sender, EventArgs e)
@@ -70,7 +95,7 @@ namespace LearningENG
                     try
                     {
                         string path = openFile.FileName;
-                        GlobalVariables.DatabaseInstance.SetPath(path);
+                        GlobalVariables.DatabaseInstance.setPathQuestion(path);
 
                         List<QuestionItem> questions;
                         string jsonData = File.ReadAllText(path);
@@ -87,16 +112,10 @@ namespace LearningENG
                                 this._listQuestion.SetSelected(0, true);
                                 this._listQuestion.Visible = true;
                                 this._content.Visible = true;
-                            }
-                            else
-                            {
-                                MessageBox.Show("Empty JSON file!");
+                                return;
                             }
                         }
-                        else
-                        {
-                            MessageBox.Show("Can not read JSON file!");
-                        }
+                        MessageBox.Show("Can not read JSON file!");
                     }
                     catch (Exception ex)
                     {
@@ -111,7 +130,7 @@ namespace LearningENG
             try
             {
                 string jsonData = JsonConvert.SerializeObject(GlobalVariables.DatabaseInstance.GetAllItem(), Formatting.Indented);
-                string pathFile = GlobalVariables.DatabaseInstance.getPath();
+                string pathFile = GlobalVariables.DatabaseInstance.getPathQuestion();
                 File.WriteAllText(pathFile, jsonData);
                 MessageBox.Show("Writing data to JSON file successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 GlobalVariables.DatabaseInstance.isModify = false;
@@ -139,6 +158,37 @@ namespace LearningENG
             GlobalVariables.DatabaseInstance.Clear();
         }
 
+        private void ClickBtnGrammar(object sender, EventArgs e)
+        {
+            if (this._documentation != null && this._documentation.Visible)
+            {
+                return;
+            }
+
+            this._documentation = new Documentation();
+            this._documentation.SetPosition(this.Location.X + 800, this.Location.Y + 150);
+            this._documentation.Show();
+        }
+
+        private void ClickBtnNewWord(object sender, EventArgs e)
+        {
+            if (this._newWord != null && this._newWord.Visible)
+            {
+                return;
+            }
+
+            this._newWord = new NewWord();
+            this._newWord.SetPosition(this.Location.X + 800, this.Location.Y);
+            this._newWord.Show();
+        }
+
+        private void ClickBtnSetting(object sender, EventArgs e)
+        {
+            Setting setting = new Setting();
+            setting.SetPosition(this.Location.X + 150, this.Location.Y + 75);
+            setting.ShowDialog();
+        }
+
         private void ClickBtnCloseApp(object sender, EventArgs e)
         {
             ClickBtnCloseFile(sender, e);
@@ -152,8 +202,8 @@ namespace LearningENG
             switch (item.status)
             {
                 case 0: //QuestionStatus::NONE
-                    //MessageBox.Show("This question has not been answered yet!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    //return;
+                    MessageBox.Show("This question has not been answered yet!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
                 case 1: //QuestionStatus::TRUE
                 case 2: //QuestionStatus::FALSE
                     item.status = 3;
@@ -234,6 +284,11 @@ namespace LearningENG
         private void drawItemListBox(object sender, DrawItemEventArgs e)
         {
             e.DrawBackground();
+            e.DrawFocusRectangle();
+            if (GlobalVariables.DatabaseInstance.Size() == 0)
+            {
+                return;
+            }
 
             Image img;
             int status = GlobalVariables.DatabaseInstance.GetItem(e.Index).status;
@@ -264,7 +319,6 @@ namespace LearningENG
                     e.Graphics.DrawString(_listQuestion.Items[e.Index].ToString(), font, Brushes.Black, e.Bounds.Left + 30, e.Bounds.Top + 8);
                 }
             }
-            e.DrawFocusRectangle();
         }
 
         private void selectQuestion(object sender, EventArgs e)
@@ -335,25 +389,28 @@ namespace LearningENG
             this._answerContent.Text = item.answer;
             this._noteContent.Text = item.note;
             this._correctContent.Text = item.correct_answer;
-
             this._answerContent.Focus();
 
             switch (item.status)
             {
                 case 0: //QuestionStatus::NONE
-                    this._correctContent.Visible = false;
+                    this._correctContent.Text = string.Empty;
                     break;
                 case 1: //QuestionStatus::TRUE
-                    this._correctContent.Visible = true;
                     this._correctContent.ForeColor = Color.Green;
                     break;
                 case 2: //QuestionStatus::FALSE
-                    this._correctContent.Visible = true;
                     this._correctContent.ForeColor = Color.Red;
                     break;
                 case 3: //QuestionStatus::REVIEWED
-                    this._correctContent.Visible = true;
-                    this._correctContent.ForeColor = Color.Blue;
+                    if(item.answer == item.correct_answer)
+                    {
+                        this._correctContent.ForeColor = Color.Green;
+
+                    } else
+                    {
+                        this._correctContent.ForeColor = Color.Red;
+                    }
                     break;
             }
         }
